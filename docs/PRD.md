@@ -1,8 +1,8 @@
 # PRD: Real-Time Fraud Prevention & Velocity Check Rule Engine (V1)
 
 **Status:** In Development (MVP)  
-**Author:** Mauro Horie  
-**Last Updated:** November 2026  
+**Author:** Japapedia  
+**Last Updated:** November 17th, 2026  
 
 ---
 
