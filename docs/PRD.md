@@ -21,3 +21,4 @@ The main pain points are:
 
 | Persona | Responsabilities | Main Concerns |
 | :--- | :--- | :--- |
+| Checkout/Auth API | System integrated via HTTP/JSON | Recive decision in less than 15ms (P99) |
