@@ -1,8 +1,8 @@
 # PRD: Fraud Prevention Engine and Velocity Check (V1)
 
-**Status:** MVP
-**Author:** Japapedia
-**Last update:** 2026 November, 17
+**Status:** MVP  
+**Author:** Japapedia  
+**Last update:** 2026 November, 17  
 
 ---
 
